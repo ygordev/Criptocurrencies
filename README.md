@@ -7,6 +7,9 @@ A repository created as a way to compile essential information about cryptocurre
 * [Solidity Docs - PT-BR](https://solidity-portuguese.readthedocs.io/pt/latest/)
 * [Solidity Course - Ethereum and Solidity: The Complete Developer's Guide](https://www.udemy.com/course/ethereum-and-solidity-the-complete-developers-guide/)
 
+## Axie Infinity
+* [Whitepaper](https://whitepaper.axieinfinity.com/)
+
 ## Helium
 * [Whitepaper](http://whitepaper.helium.com/)
 
