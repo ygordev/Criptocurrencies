@@ -16,6 +16,12 @@ A repository created as a way to compile essential information about cryptocurre
 ## Immutable X
 * [Whitepaper](https://support.immutable.com/hc/en-us/articles/4405227590799-Immutable-X-Whitepaper)
 
+## OVR
+* [Whitepaper](https://assets.ovr.ai/download/whitepaper/whitepaper%203.0.pdf)
+
+## Radio Caca
+* [Whitepaper](https://www.radiocaca.com/#/whitepaper)
+
 ## Decentraland
 * [Whitepaper](https://decentraland.org/whitepaper.pdf)
 
