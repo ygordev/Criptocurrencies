@@ -1,4 +1,4 @@
-# Crypto + Metaverse
+# Criptocurrencies and Metaverse
 A repository created as a way to compile essential information about cryptocurrency projects, such as whitepapers and courses.
 
 ## Ethereum
