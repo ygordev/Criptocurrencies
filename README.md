@@ -1,3 +1,9 @@
+# Exchanges Infos
+* [ExchangeWar](https://exchangewar.info/)
+
+# Cryptocurrencies Infos
+* [CoinGecko](https://www.coingecko.com/pt)
+
 # Criptocurrencies and Metaverse
 A repository created as a way to compile essential information about cryptocurrency projects, such as whitepapers and courses.
 
@@ -27,9 +33,3 @@ A repository created as a way to compile essential information about cryptocurre
 
 ## The Sandbox
 * [Medium Article - The Sandbox Tokens: $SAND](https://medium.com/sandbox-game/what-is-sand-afe596792632)
-
-## Exchanges Infos
-* [ExchangeWar](https://exchangewar.info/)
-
-## Cryptocurrencies Infos
-* [CoinGecko](https://www.coingecko.com/pt)
