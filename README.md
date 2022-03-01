@@ -4,6 +4,9 @@
 # Cryptocurrencies Infos
 * [CoinGecko](https://www.coingecko.com/pt)
 
+# Comparativo entre as Placas de Vídeo
+* [HashRate.no](https://hashrate.no/)
+
 # Criptocurrencies and Metaverse
 A repository created as a way to compile essential information about cryptocurrency projects, such as whitepapers and courses.
 
